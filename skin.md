@@ -1,4 +1,4 @@
- # maliszewski skins - compilation of 247 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 249 skins maliszewski has used since mid 2022 
 
  
 
@@ -27,6 +27,12 @@
  
   
 </details>
+
+# [Aristia(Aireu)](https://drive.google.com/file/d/1_kWhe4fyEuMx-4Qyw85vw-gAzYdojcxV/view?usp=drive_link) (21/08/2026)
+<img width="1920" height="1080" alt="screenshot715" src="https://github.com/user-attachments/assets/714dca5c-1fab-4247-9afc-2a73f475439b" />
+
+# [-#-BK_Rizer3.0_NM+Rektygon](https://drive.google.com/file/d/1Y6mhVd9peGVarM1vXbPiBlILr7YzYQcD/view?usp=drive_link) (21/08/2026)
+ <img width="1920" height="1080" alt="screenshot714" src="https://github.com/user-attachments/assets/af2b4c4e-569a-4433-a11f-76d0833faf1b" />
 
 # [‎ccccc](https://drive.google.com/file/d/1WDvqmTdv_wwSoaL7nf5PedMM-8PKwMUU/view?usp=sharing) (20/08/2026)
 <img width="1920" height="1080" alt="screenshot713" src="https://github.com/user-attachments/assets/9b54b9e6-26bf-4984-8976-935458653c0c" />
