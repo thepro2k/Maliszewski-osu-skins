@@ -1,4 +1,4 @@
- # maliszewski skins - compilation of 249 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 250 skins maliszewski has used since mid 2022 
 
  
 
@@ -27,6 +27,9 @@
  
   
 </details>
+
+# [BubbleSkin24-09-08](https://drive.google.com/file/d/1EPm7GcoOyo1xSJ74GpUvj1Z24yZcQRME/view?usp=sharing) (27/08/2026)
+<img width="1920" height="1080" alt="screenshot717" src="https://github.com/user-attachments/assets/a0090e01-5793-4ffc-b788-ce14ca4ca874" />
 
 # [Aristia(Aireu)](https://drive.google.com/file/d/1_kWhe4fyEuMx-4Qyw85vw-gAzYdojcxV/view?usp=drive_link) (21/08/2026)
 <img width="1920" height="1080" alt="screenshot715" src="https://github.com/user-attachments/assets/714dca5c-1fab-4247-9afc-2a73f475439b" />
